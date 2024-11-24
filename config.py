@@ -29,10 +29,10 @@ class Config:
             "hallway": pygame.Color(40, 44, 52),
             "background": pygame.Color(24, 26, 30),
             "square": [
-                pygame.Color(224, 26, 79),
-                pygame.Color(173, 247, 182),
-                pygame.Color(249, 194, 46),
-                pygame.Color(83, 179, 203)
+                pygame.Color(255, 255, 255),
+                pygame.Color(255, 255, 255),
+                pygame.Color(255, 255, 255),
+                pygame.Color(255, 255, 255)
             ]
         },
 
